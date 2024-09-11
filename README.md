@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @soliditygirl
 - 👀 I’m interested in Solidity smart contract based work.
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning Solidity
 - 💞️ I’m looking to collaborate on work projects
 - 📫 How to reach me on email:soliditygirl@protonmail.com
 - 😄 Pronouns: ...
